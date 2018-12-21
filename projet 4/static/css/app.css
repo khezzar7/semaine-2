@@ -1,0 +1,15 @@
+.fr{
+  color: blue;
+  font-weight: bold;
+}
+.en, .it{
+  display: none;
+}
+#flagEn{
+  opacity: 0.3;
+  width: 50px;
+}
+#flagIt{
+  opacity: 0.3;
+  width: 40px;
+}

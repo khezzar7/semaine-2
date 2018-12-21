@@ -1,0 +1,17 @@
+#suggestionList{
+  list-style: none;
+  padding-left: 1px;
+  width: 145px;
+
+}
+
+
+#suggestionList li{
+  background-color: #ccc;
+  padding: 5px;
+  border-bottom: 1px #444 solid;
+  cursor: pointer;
+}
+ul{
+  margin-top: 0
+}
